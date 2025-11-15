@@ -1,6 +1,7 @@
 # BART-FL: A Backdoor Attack-Resilient Federated Aggregation Technique for Cross-Silo Applications
 BART-FL (Backdoor-Aware Robust Training for Federated Learning) is a novel defense-oriented framework that enhances the robustness of **Federated Learning (FL)** against **backdoor and poisoning attacks**. It integrates **Principal Component Analysis (PCA)** and **clustering-based filtering** to isolate and suppress malicious client updates while maintaining accuracy on clean data. Designed for **cross-device federated environments**, BART-FL provides explainable and privacy-aware aggregation mechanisms to improve resilience against adversarial behavior.
 
+![CHEESE!](Proposed_Method_Overview.png)
 📘 [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11172307)
 ---
 
